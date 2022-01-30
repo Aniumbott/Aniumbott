@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **opensource projects.**
 
-- 👨‍💻 All of my projects are available at [My Linktree](https://linktr.ee/aniumbott).
-
 - 💬 Ask me about **Problem-Solving and Web-Dev.**
 
 - ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves.**
