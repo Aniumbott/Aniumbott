@@ -31,6 +31,7 @@
 <a href="https://leetcode.com/aniumbott/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniumbott/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aniumbott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aniumbott" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aniumbott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniumbott" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17595558/aniumbott" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="aniumbott" height="30" width="40" /></a>
 
 </p>
 
