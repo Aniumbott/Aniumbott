@@ -1,17 +1,17 @@
 <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
-<h1 align="center">👋 Hi, I'm Aniket Rana 😎</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=0e75b6&style=flat" alt="aniumbott" /> </p>
-<b><h3 align="center">< Computer Science Enthusiast ></h3></b>
-
+<h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Aniket Rana 😇</h1>
+<p align="right"></p>
+<b><h3 align="center"></h3></b>
+<img align="right" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=0e75b6&style=flat" alt="aniumbott" />
+<br><br>
+<img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/main/portfolio%20gif.gif" />
+  
 ---
-- 🌱 I’m currently learning **DSA, CP, Web-Dev.**
-
-- 👯 I’m looking to collaborate on **opensource projects.**
-
-- 💬 Ask me about **Problem-Solving and Web-Dev.**
-
-- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves.**
----
+- 🎓 I am an Undergrad at SVNIT
+- 🌱 I'm a MERN Stack Developper and also good at DSA-CP
+- 👯 I’m looking to collaborate on **opensource projects**
+- 💬 Ask me about **Problem-Solving and Web-Dev**
+- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves**
   
 <br>
 <h3 align="left">Languages I know :</h3>
@@ -56,14 +56,12 @@
 <a href="https://twitter.com/aniumbott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniumbott" height="30" width="40" /></a>
 </p>
 <br>
- 
-  ---
-[![Aniket's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniumbott&theme=dracula)](https://github.com/aniumbott)
-<hr>
+ <hr>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniumbott&show_icons=true&theme=tokyonight&locale=en" alt="aniumbott" />
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniumbott&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aniumbott" />
   </p>
   <br>
-<b><h1 align="center">¯\_(ツ)_/¯</h1></b>
+<img height="200" align="left" src="https://c.tenor.com/KMickTxR-aUAAAAi/tanjiro.gif" alt="aniumbott" />
+<h1 align="center">THANK YOU FOR VISITING !!!</h1>
