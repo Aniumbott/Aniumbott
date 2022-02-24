@@ -2,16 +2,16 @@
 <h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Aniket Rana 😇</h1>
 <p align="right"></p>
 <b><h3 align="center"></h3></b>
-<img align="right" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=0e75b6&style=flat" alt="aniumbott" />
+<img align="right" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
 <br><br>
 <img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/main/portfolio%20gif.gif" />
   
 ---
 - 🎓 I am an Undergrad at SVNIT
-- 🌱 I'm a MERN Stack Developper and also good at DSA-CP
+- 🌱 I'm a **MERN Stack Developper** and also good at **CP**
 - 👯 I’m looking to collaborate on **opensource projects**
 - 💬 Ask me about **Problem-Solving and Web-Dev**
-- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves**
+- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves.** -Saitama
   
 <br>
 <h3 align="left">Languages I know :</h3>
