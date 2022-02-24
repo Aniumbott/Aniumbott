@@ -4,7 +4,7 @@
 <b><h3 align="center"></h3></b>
 <img align="right" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
 <br><br>
-<img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/main/portfolio%20gif.gif" />
+<img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/0c0e1e640009e0d2dd7d5b3f2e4dfabe3cc4b432/portfolio%20gif.gif" />
   
 ---
 - 🎓 I am an Undergrad at SVNIT
