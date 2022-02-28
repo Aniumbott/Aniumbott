@@ -48,6 +48,7 @@
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> </a>
 <a href="https://vercel.com/" target="_blank"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
