@@ -70,9 +70,9 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img align="left" width=270 src="https://github-readme-stats.vercel.app/api?username=aniumbott&show_icons=true&theme=tokyonight&locale=en" alt="aniumbott" />
-  <img align="center" width=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniumbott&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aniumbott" />
-  <img align="right" width=270 src="http://github-readme-streak-stats.herokuapp.com?user=aniumbott&show_icons=true&theme=tokyonight&locale=en" />
+  <img align="left" width=260 src="https://github-readme-stats.vercel.app/api?username=aniumbott&show_icons=true&theme=tokyonight&locale=en" alt="aniumbott" />
+  <img align="center" width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniumbott&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aniumbott" />
+  <img align="right" width=260 src="http://github-readme-streak-stats.herokuapp.com?user=aniumbott&show_icons=true&theme=tokyonight&locale=en" />
   <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=aniumbott&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true" />
