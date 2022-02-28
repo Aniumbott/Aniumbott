@@ -2,9 +2,19 @@
 <h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Aniket Rana 😇</h1>
 <!-- End of Intro -->
 
-<!-- Hero -->
-<img align="right" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
+<!-- Views -->
+<img align="left" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
+<!-- End of Views -->
+  
+<!-- Live Rating -->
+<p align=right>
+<img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/aniumbott&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codeforces/aniumbott" />
+</p>
+<!-- Live Rating -->
+
 <br><br>
+
+<!-- Hero -->
 <img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/0c0e1e640009e0d2dd7d5b3f2e4dfabe3cc4b432/portfolio%20gif.gif" />
 <!-- End of Hero -->
 
