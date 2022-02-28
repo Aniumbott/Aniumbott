@@ -3,12 +3,12 @@
 <!-- End of Intro -->
 
 <!-- Views -->
-<img align="left" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
+<a href="https://github.com/Aniumbott/"><img align="left" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
 <!-- End of Views -->
   
 <!-- Live Rating -->
 <p align=right>
-<img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/aniumbott&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codeforces/aniumbott" />
+<a href="https://codeforces.com/profile/aniumbott" target="_blank"><img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/aniumbott&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codeforces/aniumbott" /></a>
 </p>
 <!-- Live Rating -->
 
@@ -44,13 +44,13 @@
 <!-- Platforms -->
 <h3 align="left">Platforms :</h3>
 <p align="left">
-  <a href="https://www.codechef.com/users/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/aniumbott/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-  <a href="https://www.hackerrank.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.hackerearth.com/@aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
-  <a href="https://stackoverflow.com/users/17595558/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/aniumbott/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="https://www.hackerrank.com/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.hackerearth.com/@aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
+  <a href="https://stackoverflow.com/users/17595558/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 <!-- End of Platforms -->
 
