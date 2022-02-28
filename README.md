@@ -74,7 +74,8 @@
   <img align="center" width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniumbott&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aniumbott" />
   <img align="right" width=250 src="http://github-readme-streak-stats.herokuapp.com?user=aniumbott&show_icons=true&theme=tokyonight&locale=en" />
   <br>
-  <img width=900 src="https://activity-graph.herokuapp.com/graph?username=aniumbott&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=aniumbott&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true" />
 </p>
 <!-- End of GitHub Stats -->
 
