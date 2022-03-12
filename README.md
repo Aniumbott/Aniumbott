@@ -100,9 +100,9 @@
 
 <!-- Social Media -->
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-rana2934/" target="blank"><img align="center" src="https://img.shields.io/badge/AniketRana-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/https://instagram.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/aniumbott-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://fb.com/https://facebook.com/aniumbott/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aniket-rana2934/" target="blank"><img align="center" src="https://img.shields.io/badge/AniketRana-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/aniumbott-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://fb.com/aniumbott/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://twitter.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/aniumbott-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 </p>
 <!-- End of Social Media -->
