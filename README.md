@@ -15,7 +15,7 @@
 <br><br>
 
 <!-- Hero -->
-<img width="1920" src="https://github.com/Aniumbott/Aniumbott/blob/0c0e1e640009e0d2dd7d5b3f2e4dfabe3cc4b432/portfolio%20gif.gif" />
+<img width="100%" src="https://github.com/Aniumbott/Aniumbott/blob/0c0e1e640009e0d2dd7d5b3f2e4dfabe3cc4b432/portfolio%20gif.gif" />
 <!-- End of Hero -->
 
 <!-- About -->
