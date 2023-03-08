@@ -14,39 +14,37 @@
 
 <br><br>
 
-<!-- Hero -->
-<img width="100%" src="https://github.com/Aniumbott/Aniumbott/blob/0c0e1e640009e0d2dd7d5b3f2e4dfabe3cc4b432/portfolio%20gif.gif" />
-<!-- End of Hero -->
-
 <!-- About -->
----
-- 🎓 I am an Undergrad at SVNIT
-- 🌱 I'm a **MERN Stack Developper** and also good at **CP**
+ ## About
+- 🎓 I am an pre-final year student at NIT-Surat (SVNIT).
+- 🌱 I'm a **Full Stack Developper** and also good at **CP**
 - 🤝 I’m looking to collaborate on **opensource projects**
-- 💬 Ask me about **Problem-Solving and Web-Dev**
-- ⚡ Fun fact : **The greatest power of humanity is that we can change ourselves.** -Saitama
+- 🙄 I'm pursuing B.Tech in ECE so I also find the low level computing stuff interesting.
+- 💬 Ask me about **anything you like** I'll try not to dissapoint.
+- ⚡ Fact : You are breathtaking!!!.
 <!-- End of About -->
   
 <br>
 
 <!-- Languages -->
 <h3 align="left">Languages :</h3>
-<p align="left"> 
-  <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="cplusplus"/> </a>   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>   
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
-</p>
+
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!-- End of Languages -->
 
-<!-- Platforms -->
-<h3 align="left">Platforms :</h3>
+<!-- Profiles -->
+<h3 align="left">Profiles :</h3>
 <p align="left">
+   <a href="https://leetcode.com/aniumbott/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   <a href="https://www.codechef.com/users/aniketrana" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/aniumbott/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   <a href="https://www.hackerrank.com/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.hackerearth.com/@aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
   <a href="https://auth.geeksforgeeks.org/user/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
@@ -73,6 +71,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
   <a href="https://github.com/Aniumbott/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </p>
+  
 <!-- End of Tools -->
 
 <br>
