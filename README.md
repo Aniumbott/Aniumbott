@@ -1,107 +1,157 @@
-<!-- Intro -->
-<h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Aniket Rana 😇</h1>
-<!-- End of Intro -->
+<h1>Hi there 👋, I'm Aniket Rana.</h1>
 
-<!-- Views -->
-<a href="https://github.com/Aniumbott/"><img align="left" src="https://komarev.com/ghpvc/?username=aniumbott&label=Profile%20views&color=6930C3&style=for-the-badge" alt="aniumbott" />
-<!-- End of Views -->
-  
-<!-- Live Rating -->
-<p align=right>
-<a href="https://codeforces.com/profile/aniumbott" target="_blank"><img align="right" src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=Codeforces&logoColor=white&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/aniumbott&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="codeforces/aniumbott" /></a>
-</p>
-<!-- Live Rating -->
+<!-- Header Links -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://aniketrana.me/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)](https://aniumbott.hashnode.dev/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Aniumbott/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-rana2934/)
 
-<br><br>
+<!-- Short Bio -->
+<!-- </samp> for  -->
+<p>Welcome to my profile! </p>
 
-<!-- About -->
- ## About
-- 🎓 I am an pre-final year student at NIT-Surat (SVNIT).
-- 🌱 I'm a **Full Stack Developper** and also good at **CP**
-- 🤝 I’m looking to collaborate on **opensource projects**
-- 🙄 I'm pursuing B.Tech in ECE so I also find the low level computing stuff interesting.
-- 💬 Ask me about **anything you like** I'll try not to dissapoint.
-- ⚡ Fact : You are breathtaking!!!.
-<!-- End of About -->
-  
+- I've completed my B.tech from <b>NIT-Surat</b> in 2024
+- I'm a <b>Full Stack Developer</b> with decent <b>Problem Solving</b> skill demonstrated across <b>LeetCode, CodeForces and CodeChef</b>. 
+- I've strong fundamentals of DSA, OOPs, DBMS, Communication Networks and Linux.
+- My experties lies in building scalable web-applications.
+- Along with that I have my projects in <b> Flutter, Unity, Unreal Engine and OpenCV</b>.
+
+<!-- Tech Stack -->
+</br>
+<h2>Tech Stack</h2>
+<div>
+<!-- <img align="left" width="40%" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> -->
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?logo=javascript&style=flat">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?logo=typescript&style=flat">
+      <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="Shell script" src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white">
+      <img alt="Dart" src="https://img.shields.io/badge/Dart-05122A?logo=dart&style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Frameworks and Libraries</kbd>
+			<br>
+			<br>
+			<img alt="React" src="https://img.shields.io/badge/React-05122A?logo=react&style=flat">
+      <img alt="Next" src="https://img.shields.io/badge/Next.js-05122A?logo=next.js&style=flat">
+      <img alt="GatsBy" src="https://img.shields.io/badge/Gatsby-05122A?logo=gatsby&style=flat">
+      <img alt="Node" src="https://img.shields.io/badge/Node.js-05122A?logo=node.js&style=flat">
+      <img alt="Express" src="https://img.shields.io/badge/Express.js-05122A?logo=express&style=flat">
+      <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-05122A?logo=tailwind-css&style=flat">
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-05122A?logo=flutter&style=flat">
+      <img alt="Kubernates" src="https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes&style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Services</kbd>
+			<br>
+			<br>
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&style=flat">
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-05122A?logo=Firebase&style=flat">
+      <img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-05122A?logo=postgresql&style=flat">
+      <img alt="Stripe" src="https://img.shields.io/badge/Stripe-05122A?logo=stripe&style=flat">
+			<img alt="Vercel" src="https://img.shields.io/badge/Vercel-05122A?logo=vercel&style=flat">
+      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-05122A?logo=netlify&style=flat">
+      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-05122A?logo=heroku&style=flat">
+      <img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
+			<img alt="AWS" src="https://img.shields.io/badge/AWS-05122A?logo=amazon-web-services&style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Software and Tools</kbd>
+			<br>
+			<br>
+			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
+			<img alt="Github" src="https://img.shields.io/badge/GitHub-05122A?logo=github&style=flat">
+			<img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A?logo=vsc&style=flat">
+			<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?logo=docker&style=flat">
+      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-05122A?logo=jenkins&style=flat">
+			<img alt="Notion" alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
+			<img alt="Figma" src="https://img.shields.io/badge/Figma-05122A?logo=figma&style=flat">
+      <img alt="Blender" src="https://img.shields.io/badge/Blender-05122A?logo=blender&style=flat">
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-05122A?logo=unity&style=flat">
+      <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-05122A?logo=unrealengine&style=flat">
+      <img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
+			<img alt="CodeForces" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
+			<img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
+		</kbd>
+	</p>
+        </p>
+</div>
+
+
+<!-- Licenses & certifications -->
+</br>
+<h2>Achievements</h2>
+
+[<img align="left" width="94px" alt="Meta" src="https://signsalad.com/wp-content/uploads/2021/11/Screenshot-2021-11-03-at-12.14.11.png"/>]([https://ucsd.edu/](https://xrosfellowship.ficci.in/))
+**XR-Open Source Fellow** \
+**NIFT-Delhi** • Completed Jul, 2023\
+Skills: `AR/VR` `Simmulation` `HoloLense` `UnrealEngine` `C++`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.fineprintart.com/images/blog/amazon-logo/amazon_logo_history_5.jpg"/>](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india)
+**Amazon ML Summer School** \
+**Remote** • Completed Aug, 2022\
+Skills: `Python` `Deep Learning` `Supervised/Unsupervised Learning` `OpenCV` `TensorFlow` 
+
 <br>
 
-<!-- Languages -->
-<h3 align="left">Languages :</h3>
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- End of Languages -->
+<!-- Top Projects List -->
+</br>
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/Aniumbott/FlamingoAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aniumbott&repo=FlamingoAI&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="FlamingoAI"></a>
+  <a href="https://github.com/Aniumbott/Cattle_Detector_v7">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aniumbott&repo=Cattle_Detector_v7&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Cattle_Detector_v7"></a>
+  <a href="https://github.com/Aniumbott/NactoCare">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Aniumbott&repo=NactoCare&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="NactoCare">
+  </a>
+  </br>
 
-<!-- Profiles -->
-<h3 align="left">Profiles :</h3>
-<p align="left">
-   <a href="https://leetcode.com/aniumbott/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-  <a href="https://www.codechef.com/users/aniketrana" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://www.hackerearth.com/@aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
-  <a href="https://stackoverflow.com/users/17595558/aniumbott" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-</p>
-<!-- End of Platforms -->
-
-<!-- Tools -->
-<h3 align="left">Tools :</h3>
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
-  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-  <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
-  <a href="https://www.netlify.com/" target="_blank"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/> </a>
-  <a href="https://vercel.com/" target="_blank"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </a>
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
-  <a href="https://github.com/Aniumbott/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
-</p>
   
-<!-- End of Tools -->
+  </p>
+  <p align="right">
+    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
 
-<br>
-<hr>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img width=260 src="https://github-readme-stats.vercel.app/api?username=aniumbott&show_icons=true&theme=tokyonight&locale=en" alt="aniumbott" />
-  &nbsp
-  <img width=260 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniumbott&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aniumbott" />
-  &nbsp
-  <img width=260 src="http://github-readme-streak-stats.herokuapp.com?user=aniumbott&show_icons=true&theme=tokyonight&locale=en" />
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=aniumbott&bg_color=1a1b27&color=638fda&line=bb8eef&point=638fda&area=true&hide_border=true" />
-</p>
-<!-- End of GitHub Stats -->
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
 
-<hr>
+<div>
+<a href="https://github.com/Aniumbott">
+      <img alt="Aniket's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Aniumbott&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+    </a>
+  <a href="https://github.com/Aniumbott">
+<img src="https://github-readme-stats.vercel.app/api?username=Aniumbott&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+    </a>
+</div>
 
-<!-- Thank You -->
-<img height="200" align="left" src="https://c.tenor.com/KMickTxR-aUAAAAi/tanjiro.gif" alt="aniumbott" />
-<h1 align="center">THANK YOU FOR VISITING !!!</h1>
-<!-- End of Thank You -->
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2>Activity Graph</h2>
 
-<!-- Social Media -->
-<p align="center">
-  <a href="https://linkedin.com/in/aniket-rana2934/" target="blank"><img align="center" src="https://img.shields.io/badge/AniketRana-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/aniumbott-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://fb.com/aniumbott/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://twitter.com/aniumbott" target="blank"><img align="center" src="https://img.shields.io/badge/aniumbott-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-</p>
-<!-- End of Social Media -->
+![Aniket's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniumbott&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
+![GitHub followers](https://img.shields.io/github/followers/Aniumbott?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=Aniumbott&style=flat&labelolor=05122A&color=05122A)
