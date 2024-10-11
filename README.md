@@ -1,8 +1,7 @@
 <h1>Hi there 👋, I'm Aniket Rana.</h1>
 
 <!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://aniketrana.me/)
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)](https://aniumbott.hashnode.dev/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode)](https://aniketrana.me/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Aniumbott/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-rana2934/)
 
