@@ -9,11 +9,11 @@
 <!-- </samp> for  -->
 <p>Welcome to my profile! </p>
 
-- I've completed my B.tech from <b>NIT-Surat</b> in 2024
-- I'm a <b>Full Stack Developer</b> with decent <b>Problem Solving</b> skill demonstrated across <b>LeetCode, CodeForces and CodeChef</b>. 
-- I've strong fundamentals of DSA, OOPs, DBMS, Communication Networks and Linux.
-- My experties lies in building scalable web-applications.
-- Along with that I have my projects in <b> Flutter, Unity, Unreal Engine and OpenCV</b>.
+- 🔭 I’m currently working as a **Software Engineer** at **Keysight Technologies**.
+- 🎓 Graduated from **NIT-Surat** in 2024 (Electronics & Communication).
+- 💡 Recently filed an **IP** for an AI-driven automation agent (GEAR).
+- 💻 **Competitive Programmer:** Specialist @ Codeforces | Knight @ LeetCode (750+ Solved).
+- 🛠️ **Core Skills:** Automation (Python/C++), Full Stack (Next.js/Node.js), and DevOps (Docker/K8s).
 
 <!-- Tech Stack -->
 </br>
@@ -94,17 +94,26 @@
 
 <!-- Licenses & certifications -->
 </br>
-<h2>Achievements</h2>
+<h2>Experience & Achievements</h2>
 
-[<img align="left" width="94px" alt="Meta" src="https://signsalad.com/wp-content/uploads/2021/11/Screenshot-2021-11-03-at-12.14.11.png"/>]([https://ucsd.edu/](https://xrosfellowship.ficci.in/))
+[<img align="left" width="94px" alt="Keysight" src="https://images.credly.com/images/a2487615-8e9f-407b-9497-8f86451ad1a1/large_blob.png"/>](https://www.keysight.com/)
+**Software Engineer** \
+**Keysight Technologies** • Jan 2025 - Present\
+Skills: `Python` `Automation` `SCPI` `AI Agents` `R&D`
+
+<br>
+
+[<img align="left" width="94px" alt="Meta" src="https://signsalad.com/wp-content/uploads/2021/11/Screenshot-2021-11-03-at-12.14.11.png"/>](https://xrosfellowship.ficci.in/)
 **XR-Open Source Fellow** \
 **NIFT-Delhi** • Completed Jul, 2023\
-Skills: `AR/VR` `Simmulation` `HoloLense` `UnrealEngine` `C++`
+Skills: `AR/VR` `Simulation` `HoloLens` `UnrealEngine` `C++`
 
-[<img align="left" width="94px" alt="Warpnet" src="https://www.fineprintart.com/images/blog/amazon-logo/amazon_logo_history_5.jpg"/>](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india)
+<br>
+
+[<img align="left" width="94px" alt="Amazon" src="https://www.fineprintart.com/images/blog/amazon-logo/amazon_logo_history_5.jpg"/>](https://www.amazon.science/academic-engagements/amazon-launches-annual-ml-summer-school-in-india)
 **Amazon ML Summer School** \
 **Remote** • Completed Aug, 2022\
-Skills: `Python` `Deep Learning` `Supervised/Unsupervised Learning` `OpenCV` `TensorFlow` 
+Skills: `Python` `Deep Learning` `Supervised Learning` `OpenCV` 
 
 <br>
 
