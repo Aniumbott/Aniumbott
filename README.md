@@ -7,6 +7,11 @@
 Product Engineer at [Cityflo](https://cityflo.com), building the product surfaces
 and backend systems behind daily urban commute.
 
+**Currently** — building internal tooling with the operations teams at Cityflo, and
+working on [clowk](https://github.com/Aniumbott/clowk), a dependency-free tool that
+catches credentials before they reach an AI coding agent.
+<!-- updated: 2026-08 -->
+
 - 🎓 **SVNIT** 2024 — Electronics & Communication
 - 💡 Filed **IP** for an AI-driven automation agent — May 2025
 - 💻 **Specialist** @ Codeforces · **Knight** @ LeetCode
@@ -71,9 +76,12 @@ and backend systems behind daily urban commute.
 
 ## Open Source
 
-- **[Meshery](https://github.com/meshery/meshery)** — contributor to the CNCF cloud-native manager for Kubernetes and service meshes
-- **[Layer5 docs](https://github.com/layer5io/docs)** — contributor to the documentation platform behind the Layer5 / Meshery ecosystem
-- **[hsf-training/training-center](https://github.com/hsf-training/training-center)** — contributor to the HEP Software Foundation's training platform
+- **[Meshery](https://github.com/meshery/meshery)** — the CNCF cloud-native manager for
+  Kubernetes and service meshes · [my commits](https://github.com/meshery/meshery/commits?author=Aniumbott)
+- **[Layer5 docs](https://github.com/layer5io/docs)** — documentation platform behind the
+  Layer5 / Meshery ecosystem · [my commits](https://github.com/layer5io/docs/commits?author=Aniumbott)
+- **[hsf-training/training-center](https://github.com/hsf-training/training-center)** — the
+  HEP Software Foundation's training platform · [my commits](https://github.com/hsf-training/training-center/commits?author=Aniumbott)
 
 ## Writing
 
