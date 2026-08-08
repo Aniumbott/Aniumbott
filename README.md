@@ -9,7 +9,7 @@ and backend systems behind daily urban commute.
 
 - 🎓 **SVNIT** 2024 — Electronics & Communication
 - 💡 Filed **IP** for an AI-driven automation agent — May 2025
-- 💻 **Specialist** @ Codeforces · **Knight** @ LeetCode · 750+ problems solved
+- 💻 **Specialist** @ Codeforces · **Knight** @ LeetCode
 
 ## Experience
 
@@ -27,7 +27,7 @@ and backend systems behind daily urban commute.
       application implementing both BAP and BPP. Now working closely with the operations
       teams — Driver app, Ground Ops and Customer Support — building the tooling they run on.
       <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Beckn</code> <code>BAP/BPP</code>
+      <code>TypeScript</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Beckn</code> <code>BAP/BPP</code> <code>AWS</code> <code>Terraform</code> <code>ClickHouse</code> <code>Grafana</code> <code>Sentry</code> <code>Linear</code>
     </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ and backend systems behind daily urban commute.
       <br><br>
       Automation and R&amp;D for test-and-measurement systems, including the AI agent work above.
       <br><br>
-      <code>Python</code> <code>Automation</code> <code>SCPI</code> <code>AI Agents</code> <code>R&amp;D</code>
+      <code>Python</code> <code>Automation</code> <code>SCPI</code> <code>AI Agents</code> <code>LangChain</code> <code>LangGraph</code> <code>Atlassian</code> <code>R&amp;D</code>
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ and backend systems behind daily urban commute.
       operator simulator, and <a href="https://github.com/XROS-X-NIFT/SSMMG">SSMMG</a>,
       a smart sewing machine maintenance guide.
       <br><br>
-      <code>Unreal Engine</code> <code>C++</code> <code>HoloLens</code> <code>AR/VR</code> <code>Simulation</code>
+      <code>Unreal Engine</code> <code>Unity</code> <code>Blender</code> <code>Mixed Reality Toolkit</code> <code>HoloLens</code> <code>C++</code> <code>AR/VR</code>
     </td>
   </tr>
   <tr>
@@ -69,6 +69,22 @@ and backend systems behind daily urban commute.
   </tr>
 </table>
 
+## Open Source
+
+- **[Meshery](https://github.com/meshery/meshery)** — contributor to the CNCF cloud-native manager for Kubernetes and service meshes
+- **[Layer5 docs](https://github.com/layer5io/docs)** — contributor to the documentation platform behind the Layer5 / Meshery ecosystem
+- **[hsf-training/training-center](https://github.com/hsf-training/training-center)** — contributor to the HEP Software Foundation's training platform
+
+## Writing
+
+- [Spring Boot REST API for Production](https://aniumbott.hashnode.dev/spring-boot-rest-api-for-production)
+- [Unleash Your Linux System's Potential](https://aniumbott.hashnode.dev/unleash-your-linux-systems-potential)
+- [HSF Training Center](https://aniumbott.hashnode.dev/hsf-training-center)
+- [Cattle Detection — Surat Municipal Corporation](https://aniumbott.hashnode.dev/cattle-detection-surat-municipal-corporation)
+- [SMOTS — Seam-sealing Machine Operator Simulator](https://aniumbott.hashnode.dev/smots)
+
+More at [aniumbott.hashnode.dev](https://aniumbott.hashnode.dev/).
+
 ## Tech Stack
 
 **Languages**
@@ -76,21 +92,38 @@ and backend systems behind daily urban commute.
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=cplusplus)
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)
 
-**Frameworks**
+**Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter)
 
-**Infrastructure**
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)
+
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-05122A?style=flat&logo=clickhouse)
+
+**Infrastructure & Observability**
+
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat)
+![Grafana](https://img.shields.io/badge/Grafana-05122A?style=flat&logo=grafana)
+![Sentry](https://img.shields.io/badge/Sentry-05122A?style=flat&logo=sentry)
 
-## Open Source
+**AI**
 
-Contributor to [hsf-training/training-center](https://github.com/hsf-training/training-center),
-the HEP Software Foundation's training platform.
+![LangChain](https://img.shields.io/badge/LangChain-05122A?style=flat&logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-05122A?style=flat&logo=langgraph)
