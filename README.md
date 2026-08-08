@@ -74,6 +74,18 @@ catches credentials before they reach an AI coding agent.
   </tr>
 </table>
 
+## AI &amp; Agents
+
+**Agentic coding** — [Claude Code](https://claude.com/product/claude-code) as the daily driver,
+alongside Codex and Antigravity. I also build *for* these agents:
+[clowk](https://github.com/Aniumbott/clowk) catches credentials before they reach a model,
+across Claude Code, Codex and Gemini CLI.
+
+**Local &amp; self-hosted** — `Ollama` `OpenClaw` `Hermes`
+
+**Generative media** — working knowledge of diffusion models for image and video
+generation, `ControlNet` and `LoRA`, mostly explored through `ComfyUI`.
+
 ## Open Source
 
 - **[Meshery](https://github.com/meshery/meshery)** — the CNCF cloud-native manager for
@@ -133,5 +145,9 @@ More at [aniumbott.hashnode.dev](https://aniumbott.hashnode.dev/).
 
 **AI**
 
+![Claude](https://img.shields.io/badge/Claude-05122A?style=flat&logo=claude)
 ![LangChain](https://img.shields.io/badge/LangChain-05122A?style=flat&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/LangGraph-05122A?style=flat&logo=langgraph)
+![Ollama](https://img.shields.io/badge/Ollama-05122A?style=flat&logo=ollama)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05122A?style=flat&logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=pytorch)
